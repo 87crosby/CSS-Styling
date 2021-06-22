@@ -1,0 +1,21 @@
+#cloud{
+    color: aqua;
+}
+h1{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+h2{
+    color: white;
+    text-align: center;
+    background-color: rebeccapurple;
+    font-style: italic;
+}
+h3{
+    text-align: right;
+    color: darkblue;
+    background-color: royalblue;
+    text-decoration: underline;
+}
+

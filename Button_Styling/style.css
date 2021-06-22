@@ -1,0 +1,20 @@
+#search{
+    color: royalblue;
+    background-color: white;
+    font-size: 18pt;
+    border-color: royalblue;
+    border-radius: 50%;
+}
+#plus{
+    color:white;
+    background-color: aqua;
+    border-radius: 100%;
+    border-color: white;
+    border-width: 1px;
+}
+#create{
+    color: white;
+    background-color: teal;
+    border-color: black;
+    box-shadow: 10px 5px 5px black;
+}
